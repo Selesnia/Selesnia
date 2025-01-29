@@ -1,16 +1,20 @@
-## Hi there 👋
+### Buenas👋!
 
-<!--
-**Selesnia/Selesnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Explorando el mundo de la programación, aprendiendo sobre **Full Stack Development** y **Ciberseguridad**.  
+Actualmente, trabajando en proyectos simples con **Python**, **JavaScript** y herramientas de seguridad.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Lo que estoy haciendo:
+- Aprendiendo desarrollo Full Stack y fundamentos de Ciberseguridad.
+- Explorando proyectos simples para aplicar lo que aprendo.
+
+---
+
+### Próximos Proyeectos:
+-
+---
+
+**Conectemos:**
+-
+
