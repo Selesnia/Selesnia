@@ -6,7 +6,7 @@ Actualmente, trabajando en proyectos simples con **Python**, **JavaScript** y he
 ---
 
 ### Lo que estoy haciendo:
-- Aprendiendo desarrollo Full Stack y fundamentos de Ciberseguridad.
+- Aprendiendo desarrollo Full Stack.
 - Explorando proyectos simples para aplicar lo que aprendo.
 
 ---
