@@ -1,7 +1,7 @@
-### Buenas👋!
+### Buenas !!!
 
-Explorando el mundo de la programación, aprendiendo sobre **Full Stack Development** y **Ciberseguridad**.  
-Actualmente, trabajando en proyectos simples con **Python**, **JavaScript** y herramientas de seguridad.
+Explorando el mundo de la programación, aprendiendo un poco de **Full Stack Development**.  
+Actualmente, trabajando en proyectos simples con **Python**, **JavaScript**.
 
 ---
 
